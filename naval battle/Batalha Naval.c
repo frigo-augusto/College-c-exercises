@@ -4,17 +4,6 @@
 #define linhas 9
 #define colunas 9
 
-//Trabalho de lógica e algoritmo
-//Nome: Augusto Pagnossim Frigo
-//Turma:: CC2
-//OBS: O CB mostra um erro, mas o programa executa normalmente se clicar em "continue". No VS code não há erro.
-/*escolhi deixar a matriz principal como variável global para preenchê-la com uma função.
-Por se tratar de um código pequeno, não fica confuso.
-Utilizei a tabela ASCII para atribuir e comparar as letras, a fim de não precisar
-incluir a string.h. Então, as comparações de igualdade com chars são funcionais.
-Exemplo, considerando X[0][n], [0] é sua identificação entre os 3 X, X[0][0] guarda a coordenada X,
-X[0][1] guarda a coordenada Y.*/
-
 //declaração das variáveis globais
 char matriz_principal[linhas][colunas];
 
