@@ -5,7 +5,6 @@
 
 //Trabalho de estrutura de dados
 //Nome: Augusto Pagnossim Frigo
-//Matricula: 202010869
 void memoriaInsuficiente();
 void printa(Entrada** entra);
 Entrada ** teste(Dicionario *dic, char * str, int grao);
